@@ -1,2 +1,2 @@
 # LeetCode
-My LeetCode Tracker
+LeetCode Tracker
