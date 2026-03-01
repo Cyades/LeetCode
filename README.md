@@ -15,7 +15,7 @@ A collaborative repository for tracking daily LeetCode progress with friends!
 |------|------|--------|------|-------|
 | Skapi | 7 | 0 | 0 | 7 |
 | Cilla | 1 | 0 | 0 | 1 |
-| Teeyush | 1 | 0 | 0 | 1 |
+| Teeyush | 3 | 0 | 0 | 3 |
 | *Your Name* | - | - | - | - |
 
 
