@@ -13,7 +13,7 @@ A collaborative repository for tracking daily LeetCode progress with friends!
 
 | Name | Easy | Medium | Hard | Total |
 |------|------|--------|------|-------|
-| Skapi | 6 | 0 | 0 | 6 |
+| Skapi | 7 | 0 | 0 | 7 |
 | Cilla | 1 | 0 | 0 | 1 |
 | Teeyush | 1 | 0 | 0 | 1 |
 | *Your Name* | - | - | - | - |
